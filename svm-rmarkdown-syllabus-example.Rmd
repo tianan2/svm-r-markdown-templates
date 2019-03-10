@@ -4,15 +4,14 @@ output:
     keep_tex: true
     fig_caption: yes
     latex_engine: pdflatex
-    template: ~/Dropbox/miscelanea/svm-r-markdown-templates/svm-latex-syllabus.tex
+    template: svm-latex-syllabus.tex
 geometry: margin=1in
 
-title: "POSC 0000: A Class with an R Markdown Syllabus"
-author: Steven V. Miller
-date: "Fall 2016"
+title: "Contemporary Chinese Politics"
+author: Jaehwan Lim
+date: "Fall 2019"
 
-email: "svmille@clemson.edu"
-web: "svmiller.com/teaching"
+email: "lim@sipeb.aoyama.ac.jp"
 officehours: "W 09:00-11:30 a.m."
 office: "230A Brackett Hall"
 classroom: "*online*"
