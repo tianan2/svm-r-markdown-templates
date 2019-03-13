@@ -1,26 +1,23 @@
 ---
-output: 
+title: "Contemporary Chinese Politics"
+author: "Jaehwan Lim"
+date: "Fall 2019"
+output:
   pdf_document:
-    keep_tex: true
     fig_caption: yes
+    keep_tex: yes
     latex_engine: pdflatex
     template: svm-latex-syllabus.tex
-geometry: margin=1in
-
-title: "Contemporary Chinese Politics"
-author: Jaehwan Lim
-date: "Fall 2019"
-
-email: "lim@sipeb.aoyama.ac.jp"
-officehours: "W 09:00-11:30 a.m."
-office: "230A Brackett Hall"
-classroom: "*online*"
-classhours: "TR 02:00-03:45 p.m."
-
+  word_document: default
+email: lim@sipeb.aoyama.ac.jp
 fontfamily: mathpazo
 fontsize: 11pt
-header-includes:
-   - \linespread{1.05}
+geometry: margin=1in
+header-includes: \linespread{1.05}
+office: 230A Brackett Hall
+officehours: W 09:00-11:30 a.m.
+classroom: '*online*'
+classhours: TR 02:00-03:45 p.m.
 ---
 
 
